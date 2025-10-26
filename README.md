@@ -30,9 +30,11 @@ The system operates through a powerful pipeline that combines several AI techniq
 
 ## 🖼️ Sample Detections
 
-No-Helmet Violation 
-:------------------:|:----------------------------:  
-![No-Helmet Violation](assets/evidence_2.jpg) | ![Multiple Riders and Vehicles](assets/evidence_1.jpg)
+### No-Helmet Violation with Plate
+<img src="assets/evidence_1.jpg" alt="No-Helmet Violation" width="500" height="300" />
+
+### Multiple Riders and Vehicles
+<img src="assets/evidence_2.jpg" alt="Multiple Riders and Vehicles" width="500" height="300" />
 
 
 ---
